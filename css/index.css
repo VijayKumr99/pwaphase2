@@ -1,0 +1,42 @@
+body{
+  background: #85929E
+}
+header{
+  font-weight: 20px;
+  text-align: center;
+  font-style: italic;
+  background: #F1C40F
+}
+img{
+  text-align: right;
+  float:right;
+  width: 80%;
+  height: 80%;
+
+}
+a{
+  float: right;
+}
+.child{
+  width: 20%;
+  height: 150px;
+  padding:1%;
+  margin:3%;
+  border: 3px solid #fff;
+  display:block;
+  text-align: center;
+  background-color: white;
+  align:center;
+  border-radius: 10%;
+}
+.link{
+   text-decoration: none;
+  background-color: red;
+  color: #fff;
+
+}
+.child img{
+  width: 100px;
+  height: 100px;
+  font: center;
+}

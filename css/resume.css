@@ -1,0 +1,40 @@
+body{
+  background:skyblue;
+
+}
+img{
+  width:20%;
+  height:20%;
+  border: 20px solid:red;
+  background: #BB8FCE  ;
+border-radius: 5%;
+margin: 3%;
+align: left;
+}
+education{
+  border: 2px solid:green;
+  width: 40%;
+  height: 40%;
+  margin: 3%;
+  align: right;
+  border-radius: 5%;
+  background: green;
+}
+.parent{
+  background: green;
+  flex-wrap: wrap;
+  margin: 2%;
+  width: 50%;
+}
+.left{
+  background:yellow;
+  margin: 2%;
+  width: 40%;
+  height: 50%;
+}
+.right{
+  background:yellow;
+  margin: 2%;
+  width: 50%;
+  /* height: 50%; */
+}

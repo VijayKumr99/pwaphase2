@@ -1,0 +1,64 @@
+body{
+  background: #2ECC71
+
+}
+.parent{
+  width: 100%;
+  border:2px solid#BB8FCE;
+  display:flex;
+  flex-wrap: wrap;
+
+}
+.career{
+  width: 80%;
+  border: 2px solid #839192;
+  margin:2%;
+  padding: 3%;
+  text-align: center;
+  background: #EC7063;
+}
+.details{
+  width: 40%;
+  margin: 2%;
+  padding: 2%;
+  text-align: center;
+  border:2px solid#B2BABB;
+
+
+}
+.icollege
+{
+  width:40%;
+  margin:2%;
+  padding:2%;
+  text-align: center;
+  border:2px solid#B2BABB;
+
+}
+.jschool{
+  width: 40%;
+  margin: 2%;
+  padding: 2%;
+  text-align: center;
+  border:2px solid#B2BABB;
+}
+.kskills{
+  width: 100%;
+  margin: 2%;
+  padding: 2%;
+  text-align: center;
+  border:2px solid#B2BABB;
+
+}
+
+
+#button{
+  font-weight: bold;
+  font-size: 10px;
+  text-align: center;
+
+}
+input,select{
+  width:80%;
+  margin:2%;
+}
